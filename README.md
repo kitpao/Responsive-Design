@@ -119,7 +119,7 @@ See the [open issues](https://github.com/leonmezu1/Responsive-Design/issues) for
 [stars-shield]: https://img.shields.io/github/stars/kitpao/Responsive-Design.svg?style=flat-square
 [stars-url]: https://github.com/kitpao/kitpao/Responsive-Design/stargazers
 [issues-shield]: https://img.shields.io/github/issues/leonmezu1/Responsive-Design.svg?style=flat-square
-[issues-url]: https://github.com/kitpao/leonmezu1/Responsive-Design/issues
+[issues-url]: https://github.com/leonmezu1/Responsive-Design/issues
 [license-shield]: https://img.shields.io/github/license/kitpao/Responsive-Design.svg?style=flat-square
 [license-url]: https://github.com/kitpao/Responsive-Design/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
