@@ -17,9 +17,9 @@
     <br />
     <a href="https://github.com/kitpao/Responsive-Design">View Demo</a>
     ·
-    <a href="https://github.com/kitpao/Responsive-Design/issues">Report Bug</a>
+    <a href="https://github.com/leonmezu1/Responsive-Design/issues">Report Bug</a>
     ·
-    <a href="https://github.com/kitpao/Responsive-Design/issues">Request Feature</a>
+    <a href="https://github.com/leonmezu1/Responsive-Design/issues">Request Feature</a>
   </p>
 </p>
 
@@ -61,7 +61,7 @@ Here is an example of the size seen in mobile version:
 
 ## Roadmap
 
-See the [open issues](https://github.com/kitpao/Responsive-Design/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/leonmezu1/Responsive-Design/issues) for a list of proposed features (and known issues).
 
 ## Contact
 <p align="center">
@@ -118,8 +118,8 @@ See the [open issues](https://github.com/kitpao/Responsive-Design/issues) for a 
 [forks-url]: https://github.com/kitpao/Responsive-Design/network/members
 [stars-shield]: https://img.shields.io/github/stars/kitpao/Responsive-Design.svg?style=flat-square
 [stars-url]: https://github.com/kitpao/kitpao/Responsive-Design/stargazers
-[issues-shield]: https://img.shields.io/github/issues/kitpao/Responsive-Design.svg?style=flat-square
-[issues-url]: https://github.com/kitpao/kitpao/Responsive-Design/issues
+[issues-shield]: https://img.shields.io/github/issues/leonmezu1/Responsive-Design.svg?style=flat-square
+[issues-url]: https://github.com/kitpao/leonmezu1/Responsive-Design/issues
 [license-shield]: https://img.shields.io/github/license/kitpao/Responsive-Design.svg?style=flat-square
 [license-url]: https://github.com/kitpao/Responsive-Design/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
